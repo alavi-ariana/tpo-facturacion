@@ -1,0 +1,1 @@
+-- System Requirement 2: Database schema creation

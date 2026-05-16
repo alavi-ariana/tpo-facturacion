@@ -1,0 +1,10 @@
+# Entorno
+.env
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
+
+# Volúmenes de Docker (por si se mapean a carpetas locales en el futuro)
+postgres_data/
+mongo_data/
